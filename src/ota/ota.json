@@ -1,0 +1,7 @@
+{
+"versionCode":1,
+"versionName":"1.0",
+"desc":"修复bug，优化体验效果",
+"path":"https://raw.githubusercontent.com/Wodner/Wodner.github.io/master/src/ota/ota.apk",
+"packageName":"com.vanzeak.myapplication"
+}
